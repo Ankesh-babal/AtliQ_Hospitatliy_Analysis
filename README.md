@@ -10,3 +10,11 @@ Built visualizations for Overall Analysis and Monthly Analysis views.
 Created additional insights beyond the provided mock-up for deeper analysis.
 Integrated advanced features like bookmarks and page navigation for a seamless user experience.
 Maintained a consistent design using a predefined color palette.
+
+## Screenshots
+### Mock-up Dashboard
+![image](https://github.com/user-attachments/assets/cf575866-6697-4c5a-8fd2-d21d0c98897b)
+### Data Model
+![image](https://github.com/user-attachments/assets/875c3bf0-14c1-4e5b-8f7d-b91d0ee1feb0)
+### Dashboard
+![image](https://github.com/user-attachments/assets/325204a1-44f5-4eed-a280-062d99587419)
