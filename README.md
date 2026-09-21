@@ -16,6 +16,7 @@ Calendar Visual: Developed a calendar visual using a matrix table, enabling deta
 Cancellation Policies: Gained insights into cancellation policies across various hotels. Most hotels charge no fee if a booking is canceled at least three months before the booking date. Cancellations beyond this period incur charges ranging between 60% and 90% of the booking cost.
 Bookmarks and Selection: Mastered the use of bookmarks and selection tools for advanced functionality, including page navigation and a clear filter button in the dashboard. Techniques were learned through resources like YouTube tutorials.
 Consistent Design: Experimented with a predefined color palette, ensuring a professional and consistent design throughout the dashboard.
+
 ### Key Insights from the Dashboard
 
 #### Revenue Generation:
@@ -32,9 +33,12 @@ AtliQ experienced significant losses due to cancellations, amounting to ₹298 m
 Week 24 emerged as the most profitable period, generating a revenue of ₹139.6 million.
 
 ## Screenshots
+
 ### Mock-up Dashboard
 ![image](https://github.com/user-attachments/assets/cf575866-6697-4c5a-8fd2-d21d0c98897b)
+
 ### Data Model
 ![image](https://github.com/user-attachments/assets/875c3bf0-14c1-4e5b-8f7d-b91d0ee1feb0)
+
 ### Dashboard
 ![image](https://github.com/user-attachments/assets/325204a1-44f5-4eed-a280-062d99587419)
